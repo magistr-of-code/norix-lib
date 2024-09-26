@@ -19,7 +19,7 @@
 			"maxmag_change.norix.lib.Norixlib"
 		],
 		"client": [
-			"maxmag_change.norix.lib.NorixClient"
+			"maxmag_change.norix.lib.NorixLibClient"
 		],
 		"fabric-datagen": [
 			"maxmag_change.norix.lib.NorixlibDataGenerator"
